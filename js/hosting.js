@@ -4,7 +4,7 @@ document.getElementById("go").onclick = change;
 
 function change() {
 
-    var url = "http://christiangcooper.com/public_html/images/"
+    var url = "images/"
 
     // get the current state of the button group -
     var radioButtons = document.getElementsByName("memory");
